@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Maksym32/ice-cream-project",
+  "homepage": "https://Maksym32/ice-cream_project",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-project/"
+    "build": "parcel build src/*.html --public-url /ice-cream_project/"
   },
   "repository": {
     "type": "git",
